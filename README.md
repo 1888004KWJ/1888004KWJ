@@ -18,6 +18,8 @@ PDTG(Please Delete This Game)
 공격:A
 
 #### 주차별 했던 일
+##### 1주차
+##### 2
 
 
 
