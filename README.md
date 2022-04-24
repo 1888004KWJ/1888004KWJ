@@ -25,6 +25,7 @@ PDTG(Please Delete This Game)
 ##### 2주차
 
 ppt 발표 및 에셋 탐색 후 캐릭터 생성 및 물리적용
+![Alt text](C:\imgfile\"Player.png")
 
 ##### 3주차
 
