@@ -10,10 +10,10 @@ PDTG(Please Delete This Game)
 
 왼쪽 이동: <-
 
-
-
 오른쪽 이동: ->
+
 점프 SpaceBar
+
 공격:A
 
 #### 주차별 했던 일
