@@ -19,7 +19,7 @@ PDTG(Please Delete This Game)
 
 #### 주차별 했던 일
 ##### 1주차
-##### 2
+##### 2주차
 
 
 
