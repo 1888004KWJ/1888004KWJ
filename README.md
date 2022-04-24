@@ -34,6 +34,8 @@ ppt 발표 및 에셋 탐색 후 캐릭터 생성 및 물리적용
 ##### 4주차
 
 플레이어 점프 구현 및 타일맵으로 플랫폼제작
+![Platforms](https://user-images.githubusercontent.com/101154354/164978078-33a59870-0e55-43da-a13c-e99f327f09f8.png)
+
 
 ##### 5주차
 
