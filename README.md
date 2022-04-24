@@ -25,7 +25,9 @@ PDTG(Please Delete This Game)
 ##### 2주차
 
 ppt 발표 및 에셋 탐색 후 캐릭터 생성 및 물리적용    
+rigidBody2D함수 사용    
 ![Player](https://user-images.githubusercontent.com/101154354/164977987-b9b1e96a-9279-408d-bb64-89e9b67f788e.png)
+
 
 ##### 3주차
 
