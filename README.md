@@ -35,7 +35,7 @@
 
   
 - 동영상[그래니]
-  [![]![스크린샷(13)](https://user-images.githubusercontent.com/101154354/191645796-011f4b3e-8741-47d2-822d-0f05cda08459.png)](https://youtu.be/ZBsdFNvOuoE)
+  [![스크린샷(13)](https://user-images.githubusercontent.com/101154354/191645796-011f4b3e-8741-47d2-822d-0f05cda08459.png)](https://youtu.be/ZBsdFNvOuoE)
 
 <br><br>
 
