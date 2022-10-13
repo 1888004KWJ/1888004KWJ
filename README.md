@@ -130,18 +130,8 @@
 
 ## 2. ( ) 파라미터 속성 뽑아 보기
 
-|속성|영문 명칭|설명|
 1)오브젝트  : Diary
+|속성|영문 명칭|설명|
 |:----:|:----:|:----:|
-
 ||Diary||
-||Calendar||
-||Paper||
-||Irondoor||
-||DoorLock||
-||Lock||
-||Bulkhead||
-||Key||
-||Player||
-||Locker||
-||Picture||
+
