@@ -7,9 +7,7 @@
 ### 3. [대표 이미지 그리고 컨셉과 대표이미지 기반 작품 묘사](#3)
 ### 4. [TUNDRA의 구성 요소](#4)
 ### 5. [게임 시스템 디자인](#5)
-### 6. [요구사항(6주차)](#6)
-### 7. [키보드 이벤트에 대한 흐름도](#7)
-### 8. [용어 정리](#8)
+
 
 # [컨셉]<a name='1'></a>
 
@@ -134,14 +132,15 @@
 
 |속성|영문 명칭|설명|
 |:----:|:----:|:----:|
-|1|Diary|<img src="./img/축구장.png" width="500">|
-|2|Calendar|<img src="./img/골대.png" width="500">|
-|3|Paper|<img src="./img/홍길동선수.png" height="300">|
-|4|Irondoor|<img src="./img/골킵.png" height="300">|
-|5|DoorLock|<img src="./img/축구장.png" width="500">|
-|6|Lock|<img src="./img/골대.png" width="500">|
-|7|Bulkhead|<img src="./img/홍길동선수.png" height="300">|
-|8|Key|<img src="./img/골킵.png" height="300">|
-|9|Player|<img src="./img/축구장.png" width="500">|
-|10|Locker|<img src="./img/골대.png" width="500">|
-|11|Picture|<img src="./img/홍길동선수.png" height="300">|
+1)오브젝트  : Diary
+||Diary||
+||Calendar||
+||Paper||
+||Irondoor||
+||DoorLock||
+||Lock||
+||Bulkhead||
+||Key||
+||Player||
+||Locker||
+||Picture||
