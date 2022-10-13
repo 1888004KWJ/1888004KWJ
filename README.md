@@ -118,7 +118,7 @@
 
 |연번|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
-|1|축구장|<img src="./img/축구장.png" width="500">|
-|2|골대|<img src="./img/골대.png" width="500">|
-|3|홍길동선수|<img src="./img/홍길동선수.png" height="300">|
-|4|골킵|<img src="./img/골킵.png" height="300">|
+|1|Diary|<img src="./img/축구장.png" width="500">|
+|2|Calendar|<img src="./img/골대.png" width="500">|
+|3|Paper|<img src="./img/홍길동선수.png" height="300">|
+|4|Irondoor|<img src="./img/골킵.png" height="300">|
