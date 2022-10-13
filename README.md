@@ -129,3 +129,19 @@
 |9|Player|<img src="./img/축구장.png" width="500">|
 |10|Locker|<img src="./img/골대.png" width="500">|
 |11|Picture|<img src="./img/홍길동선수.png" height="300">|
+
+## 2. ( ) 파라미터 속성 뽑아 보기
+
+|속성|영문 명칭||
+|:----:|:----:|:----:|
+|1|Diary|<img src="./img/축구장.png" width="500">|
+|2|Calendar|<img src="./img/골대.png" width="500">|
+|3|Paper|<img src="./img/홍길동선수.png" height="300">|
+|4|Irondoor|<img src="./img/골킵.png" height="300">|
+|5|DoorLock|<img src="./img/축구장.png" width="500">|
+|6|Lock|<img src="./img/골대.png" width="500">|
+|7|Bulkhead|<img src="./img/홍길동선수.png" height="300">|
+|8|Key|<img src="./img/골킵.png" height="300">|
+|9|Player|<img src="./img/축구장.png" width="500">|
+|10|Locker|<img src="./img/골대.png" width="500">|
+|11|Picture|<img src="./img/홍길동선수.png" height="300">|
