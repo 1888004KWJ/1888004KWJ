@@ -120,17 +120,17 @@
 
 |연번|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
-|1|Diary||
-|2|Calendar|![대표이미지](https://user-images.githubusercontent.com/101154354/196678891-861a834f-cb80-4090-a9cf-62c8212ecc49.png)|
-|3|Paper|<img src="./img/홍길동선수.png" height="300">|
-|4|Irondoor|<img src="./img/골킵.png" height="300">|
-|5|DoorLock|<img src="./img/도어락.png" width="500">|
-|6|Lock|<img src="./img/골대.png" width="500">|
-|7|Bulkhead|<img src="./img/홍길동선수.png" height="300">|
-|8|Key|<img src="./img/골킵.png" height="300">|
-|9|Player|<img src="./img/축구장.png" width="500">|
-|10|Locker|<img src="./img/골대.png" width="500">|
-|11|Picture|<img src="./img/홍길동선수.png" height="300">|
+|1|Diary|![일기장](https://user-images.githubusercontent.com/101154354/196680061-f3ca815f-5376-474a-99c1-fa5072c6d654.PNG)|
+|2|Calendar|![캘린더](https://user-images.githubusercontent.com/101154354/196680037-e73fbb8b-5174-43c2-b61d-4f6c1edcdd48.jpg)|
+|3|Paper||
+|4|Irondoor||
+|5|DoorLock|![도어락](https://user-images.githubusercontent.com/101154354/196680234-9a749ef3-b31a-4e0f-85e2-34c3691837f8.PNG)|
+|6|Lock|![자물쇠](https://user-images.githubusercontent.com/101154354/196680205-a3e6e023-c591-4027-bdd8-3f92733871d1.PNG)|
+|7|Bulkhead|![칸막이](https://user-images.githubusercontent.com/101154354/196680251-307501a1-e1ab-44f8-8be3-51dde0bce0d5.PNG)|
+|8|Key||
+|9|Player||
+|10|Locker||
+|11|Picture||
 
 ## 2. 파라미터 속성 뽑아 보기
 
