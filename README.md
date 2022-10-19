@@ -258,7 +258,7 @@
 
 ## 2. 키보드 이벤트에 대한 흐름도
 
-![키 이벤트](https://user-images.githubusercontent.com/101154354/196641064-3cd40680-37cc-46c5-8a0d-0f3c7e65f876.PNG)
+![키 이벤트]![키 이벤트](https://user-images.githubusercontent.com/101154354/196733639-8fd1c168-a2f3-4643-a42d-197e3c4e09bf.png)
 
 # [스토리 보드]<a name='7'></a>
 
