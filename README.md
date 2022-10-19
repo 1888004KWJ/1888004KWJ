@@ -120,8 +120,8 @@
 
 |연번|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
-|1|Diary|<img src="./img/축구장.png" width="500">|
-|2|Calendar|<img src="./img/골대.png" width="500">|
+|1|Diary||
+|2|Calendar|![대표이미지](https://user-images.githubusercontent.com/101154354/196678891-861a834f-cb80-4090-a9cf-62c8212ecc49.png)|
 |3|Paper|<img src="./img/홍길동선수.png" height="300">|
 |4|Irondoor|<img src="./img/골킵.png" height="300">|
 |5|DoorLock|<img src="./img/도어락.png" width="500">|
