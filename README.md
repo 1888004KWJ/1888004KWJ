@@ -122,15 +122,15 @@
 |:----:|:----:|:----:|
 |1|Diary|![일기장](https://user-images.githubusercontent.com/101154354/196680061-f3ca815f-5376-474a-99c1-fa5072c6d654.PNG)|
 |2|Calendar|![캘린더](https://user-images.githubusercontent.com/101154354/196680037-e73fbb8b-5174-43c2-b61d-4f6c1edcdd48.jpg)|
-|3|Paper||
-|4|Irondoor||
+|3|Paper|![메모장](https://user-images.githubusercontent.com/101154354/196682349-8031681c-ff4a-46b2-8e50-affafb86a304.PNG)|
+|4|Irondoor|![철문](https://user-images.githubusercontent.com/101154354/196682364-ca5e4e48-a899-4dd6-862c-e923d5092192.PNG)|
 |5|DoorLock|![도어락](https://user-images.githubusercontent.com/101154354/196680234-9a749ef3-b31a-4e0f-85e2-34c3691837f8.PNG)|
 |6|Lock|![자물쇠](https://user-images.githubusercontent.com/101154354/196680205-a3e6e023-c591-4027-bdd8-3f92733871d1.PNG)|
 |7|Bulkhead|![칸막이](https://user-images.githubusercontent.com/101154354/196680251-307501a1-e1ab-44f8-8be3-51dde0bce0d5.PNG)|
-|8|Key||
+|8|Key|![열쇠](https://user-images.githubusercontent.com/101154354/196682291-27942b63-66a0-4b13-ac7b-b71b6066b18b.PNG)|
 |9|Player||
-|10|Locker||
-|11|Picture||
+|10|Locker|![사물함](https://user-images.githubusercontent.com/101154354/196682411-1593b36f-684c-4fe4-8a1c-df1d0b9280ac.PNG)|
+|11|Picture|![사진](https://user-images.githubusercontent.com/101154354/196682426-7a5c3fe2-0831-4b63-94e7-14cd0cbfd0c9.PNG)|
 
 ## 2. 파라미터 속성 뽑아 보기
 
