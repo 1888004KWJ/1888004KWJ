@@ -53,7 +53,7 @@
 
 # [대표 이미지]
 
-![그림](./img/그림.png)
+![대표이미지](https://user-images.githubusercontent.com/101154354/196678693-809f040e-a351-4954-89bf-7b3a6a45d4f4.png)
 
 <br><br>
 
