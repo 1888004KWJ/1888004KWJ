@@ -124,7 +124,7 @@
 |2|Calendar|<img src="./img/골대.png" width="500">|
 |3|Paper|<img src="./img/홍길동선수.png" height="300">|
 |4|Irondoor|<img src="./img/골킵.png" height="300">|
-|5|DoorLock|<img src="./img/축구장.png" width="500">|
+|5|DoorLock|<img src="./img/도어락.png" width="500">|
 |6|Lock|<img src="./img/골대.png" width="500">|
 |7|Bulkhead|<img src="./img/홍길동선수.png" height="300">|
 |8|Key|<img src="./img/골킵.png" height="300">|
