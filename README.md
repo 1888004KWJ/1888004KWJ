@@ -260,6 +260,6 @@
 
 ![키 이벤트](https://user-images.githubusercontent.com/101154354/196641064-3cd40680-37cc-46c5-8a0d-0f3c7e65f876.PNG)
 
-#[스토리 보드]<a name='7'></a>
+# [스토리 보드]<a name='7'></a>
 
 ![스토리 보드](https://user-images.githubusercontent.com/101154354/196729622-e3579721-d499-4378-8f6f-31e745afd1c8.PNG)
