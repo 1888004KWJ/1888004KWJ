@@ -341,8 +341,7 @@ Room1의 테마: 원룸까지(Room2의 테마: 학교 남자화장실, Room3테�
 ## 2주차 개발 내용
 
 카메라 초점에 맞춰서 마우스로 시야 회전이 가능하고 그 기준점으로 W,A,S,D 로 순서대로 앞,왼,뒤,오른쪽으로 이동이 가능하다.
-<p align="center">
-  <img src=![Desktop 2022 11 02 - 23 29 25 01 (1) (1)](https://user-images.githubusercontent.com/101154354/207059600-2787bd4d-739f-4163-80d9-f553d7a81b83.gif)>
+<img width="80%" src="![Desktop 2022 11 02 - 23 29 25 01 (1) (1)](https://user-images.githubusercontent.com/101154354/207059600-2787bd4d-739f-4163-80d9-f553d7a81b83.gif)"/>
  
  
 ## 3주차 개발 내용
