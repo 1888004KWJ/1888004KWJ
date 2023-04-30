@@ -434,6 +434,8 @@ https://user-images.githubusercontent.com/101154354/235335148-7eaf4b33-1d8f-4037
 
 상호작용 시 락커룸 문이 열리고 닫히는 애니메이션구현(Rotation값 회전)
 
+https://user-images.githubusercontent.com/101154354/235335190-dbf48175-6ad1-45b3-995d-c03ce6aab3b2.mp4
+
 ## 6주차 개발 내용
 
 상호작용 시 서랍이 열리고 닫히는 애니메이션 구현(이동할려는 position에 포인트 설정 할 오브젝트를 만들고 기존 위치에도 포인트 설정 오브젝트를 만듬)
