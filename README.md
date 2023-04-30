@@ -280,6 +280,11 @@ Room1의 테마: 원룸,Room2의 테마: 학교 교실, Room3테마: 학교 남�
   
 ![키 이벤트 흐름도](https://user-images.githubusercontent.com/101154354/235335373-38909766-d5c0-49c1-b2f3-a5deecdfb722.PNG)
 
+## 3. 게임 흐름도
+  
+![게임 흐름도](https://user-images.githubusercontent.com/101154354/235335447-c567de66-6bf0-4d30-88d1-d5df8ad4ef47.PNG)
+
+
 # [스토리 보드]<a name='7'></a>
 
 ![스토리 보드](https://user-images.githubusercontent.com/101154354/196729622-e3579721-d499-4378-8f6f-31e745afd1c8.PNG)
