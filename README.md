@@ -418,6 +418,8 @@ Room1의 테마: 원룸까지(Room2의 테마: 학교 남자화장실, Room3테�
 
 Room2의 테마인 학교 교실에 맞게 맵의 기초적인 틀 제작
 
+![image](https://user-images.githubusercontent.com/101154354/235335009-458d04d2-46ce-4006-a276-84782b3c18f9.png)
+
 ## 3주차 개발 내용
 
 학교 교실에 맞게 디테일 한 부분을 1차적으로 추가
