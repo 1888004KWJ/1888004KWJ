@@ -455,6 +455,6 @@ https://user-images.githubusercontent.com/101154354/235335282-376bec05-5245-4544
   
 ## 8주차 개발 내용
 
-중간고사 기간이라 스킵
+중간고사
 
 
