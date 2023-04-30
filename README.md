@@ -443,6 +443,10 @@ https://user-images.githubusercontent.com/101154354/235335190-dbf48175-6ad1-45b3
 ## 7주차 개발 내용
 
 조건문을 걸어 특정 오브젝트가 내 인벤토리안에 들어와 있을 때 열리도록 수정(특정 오브젝트는 열쇠)
+
+6주차 내용과 합쳐서 올림
+
+https://user-images.githubusercontent.com/101154354/235335282-376bec05-5245-4544-ab8c-4de04490ff5b.mp4
   
 ## 8주차 개발 내용
 
